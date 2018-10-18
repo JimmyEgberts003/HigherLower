@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="current_score_text">Current score:</string>
+    <string name="current_highscore_text">Highscore:</string>
+    <string name="higher_lower_text">The next dice throw will be:</string>
+    <string name="button_higher_text">Higher</string>
+    <string name="button_lower_text">Lower</string>
+</resources>
